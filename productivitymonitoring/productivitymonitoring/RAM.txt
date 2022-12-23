@@ -1,0 +1,18 @@
+
+
+Manufacturer  : Samsung
+PartNumber    : M471A1K43DB1-CWE    
+SerialNumber  : 371BA142
+DeviceLocator : DIMM 0
+Capacity      : 8 GB
+Speed         : 3200
+
+Manufacturer  : Samsung
+PartNumber    : M471A1K43DB1-CWE    
+SerialNumber  : 371BA124
+DeviceLocator : DIMM 0
+Capacity      : 8 GB
+Speed         : 3200
+
+
+

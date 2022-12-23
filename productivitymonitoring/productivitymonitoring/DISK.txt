@@ -1,0 +1,14 @@
+
+
+Model     : ST1000LM035-1RK172
+MediaType : HDD
+BusType   : SATA
+Size      : 931.51 GB
+
+Model     : WDC PC SN520 SDAPNUW-256G-1202
+MediaType : SSD
+BusType   : NVMe
+Size      : 238.47 GB
+
+
+

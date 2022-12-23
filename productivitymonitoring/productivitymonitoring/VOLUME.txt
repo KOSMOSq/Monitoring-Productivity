@@ -1,0 +1,16 @@
+
+
+DriveLetter     : C
+FileSystemLabel : 
+FileSystemType  : NTFS
+Size            : 237.77 GB
+SizeRemaining   : 58.5 GB
+
+DriveLetter     : E
+FileSystemLabel : Disk
+FileSystemType  : NTFS
+Size            : 931.5 GB
+SizeRemaining   : 255.82 GB
+
+
+

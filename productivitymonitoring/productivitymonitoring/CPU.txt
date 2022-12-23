@@ -1,0 +1,13 @@
+
+
+Name                      : AMD Ryzen 7 4800H with Radeon Graphics         
+Manufacturer              : AuthenticAMD
+NumberOfLogicalProcessors : 16
+NumberofCores             : 8
+CurrentClockSpeed         : 2900
+LoadPercentage            : 10
+L2CacheSize               : 4 KB
+L3CacheSize               : 8 KB
+
+
+
